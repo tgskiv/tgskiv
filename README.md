@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Dmitriy Barbashov
-- 🤵🏻 COO @ Valor Software
+- 🤵🏻 Engineering Manager
+- 💼 CTO @ Techbar
 - 📫 You can reach me here https://barbashov.link/, or LinkedIn: https://linkedin.com/in/dmitriy-barbashov/
 
 <!---
